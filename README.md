@@ -34,8 +34,8 @@ I combine hands-on backend development with technical leadership and agile coach
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LukasMerz&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasMerz&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-tan-nine-69.vercel.app/api?username=LukasMerz&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-tan-nine-69.vercel.app/api/top-langs/?username=LukasMerz&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170" />
 </p>
 
 ---
